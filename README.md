@@ -4,6 +4,7 @@
 <h3>Contact with me:</h3>
 <a name="user-content-telegram" href="https://t.me/svetalisya" target="_blank"rel="nofollow"><img width="45px" src="https://camo.githubusercontent.com/fb913f475254d97cc09e42aa0551d5f3855a251427e665f515edf51dc1e2d708/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f74656c656772616d2d6170702d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/344/telegram-app--v1.png" style="max-width: 100%;"></a>
 
+![фото резюме 2](https://user-images.githubusercontent.com/92839518/172930873-99a23408-d908-4ec3-8893-749d64e6152a.jpg)
 
 <!--
 **Shiianova-S/Shiianova-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
