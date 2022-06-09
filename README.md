@@ -3,6 +3,8 @@
 <h3>Technologies and Tools I Use:</h3>
 <h3>Contact with me:</h3>
 <a name="user-content-telegram" href="https://t.me/svetalisya" target="_blank"rel="nofollow"><img width="45px" src="https://camo.githubusercontent.com/fb913f475254d97cc09e42aa0551d5f3855a251427e665f515edf51dc1e2d708/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f74656c656772616d2d6170702d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/344/telegram-app--v1.png" style="max-width: 100%;"></a>
+<img width="45px" src="https://www.imgonline.com.ua/examples/impose-picture-on-another-picture.jpg" data-canonical-src="https://img.icons8.com/color/344/telegram-app--v1.png" style="max-width: 100%;">
+
 
 
 <!--
