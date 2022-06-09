@@ -3,7 +3,7 @@
 <h3>Technologies and Tools I Use:</h3>
 
 <h3>Connect with me:</h3>
-<div style="width: 100px" align="center">
+<div style="width: 150px" align="center">
 <a name="user-content-telegram" href="https://t.me/svetalisya" rel="nofollow"><img width="40px" src="https://user-images.githubusercontent.com/92839518/172941685-4ff96c69-86c1-4860-8ddd-452b00574791.png"></a>
 <a name="user-content-email" href="mailto:lisitsova1@gmail.com" target="_blank"><img width="40px" 
 src="https://user-images.githubusercontent.com/92839518/172940822-c9292eaf-cfdd-4675-81e1-229a6ede37b0.png"></a>
