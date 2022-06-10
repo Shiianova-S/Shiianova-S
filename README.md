@@ -1,5 +1,5 @@
 <h3>Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Svetlana</h3>
-<h4>I'm Frontend Developer</h4>
+<h4>Frontend Developer</h4>
 <ul dir="auto" type="none">
 <li>🧡 I like to write code</li>
 </ul>
