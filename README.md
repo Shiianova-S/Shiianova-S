@@ -10,6 +10,15 @@
 </p>
 
 <br>
+<ul>
+  <li><b>Frontend:</b></li>
+  JavaScript, React, Redux (Saga, Thunk), HTML5, CSS3, Material UI
+  <li><b>Backend:</b></li>
+  NodeJS, Express, Sessions
+  <li><b>DataBase:</b></li>
+PostgreSQL, Sequelize ORM
+  <li><b>Other:</b></li>
+Git, GitHub, Jest, Postman
 <br>
 
 <hr></hr>
