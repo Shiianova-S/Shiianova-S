@@ -5,34 +5,9 @@
 </ul>
 <hr></hr>
 <h3>Languages and Tools:</h3>
-
-<p><img alt="HTML" align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"</p>
-  
-<p><img alt="CSS" align="left" height="40" src="https://user-images.githubusercontent.com/92839518/172957815-d2a35301-75d6-46ab-b5c4-6b6128240dee.png" ></p>
-
-<p><img alt="JavaScript" align="left" height="38" width="35" src="https://cdn-icons-png.flaticon.com/512/541/541509.png"></p>
-
-<p><img alt="React" align="left" height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></p>
-
-<p><img alt="Redux" align="left" height="40" src="https://user-images.githubusercontent.com/92839518/172959761-f08a0abb-ba61-4692-bfac-95552d08e370.png"></p>
-
-<p><img alt="Redux-Saga" align="left" height="38" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png"></p>
-
-<p><img alt="MaterialUI" align="left" height="38" src="https://user-images.githubusercontent.com/92839518/172960552-82318c14-8713-4b88-9eca-41ebcac54fed.png"></p>
-
-<p><img alt="MaterialUI" align="left" height="40" src="https://catethysis.ru/wp-content/uploads/2013/09/nodejslogo.png"></p>
-
-<p><img alt="MaterialUI" align="left" height="38" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png"></p>
-
-<p><img alt="MaterialUI" align="left" height="40" src="https://user-images.githubusercontent.com/92839518/172965183-8c170814-97a3-4c63-b3d9-c0a9aa4170f2.png"></p>
-
-<p><img alt="MaterialUI" align="left" height="43" width="40" src="https://user-images.githubusercontent.com/92839518/172965345-e305dcf4-076d-4620-a6f4-d5b01269f745.png"></p>
-
-<p><img alt="MaterialUI" align="left" height="40" src="https://user-images.githubusercontent.com/92839518/172965614-c2c3e2ad-fed3-4df8-9f1b-3ca4d7181f8e.jpeg"></p>
-
-<p><img alt="MaterialUI" align="left" height="40" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"></p>
-
-
+<p>
+<span><img alt="HTML" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"</span><span><img alt="CSS" height="40" src="https://user-images.githubusercontent.com/92839518/172957815-d2a35301-75d6-46ab-b5c4-6b6128240dee.png" ></span>&nbsp;&nbsp;<span><img alt="JavaScript" height="38" width="35" src="https://cdn-icons-png.flaticon.com/512/541/541509.png"></span>&nbsp;&nbsp;<span><img alt="React" height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></span>&nbsp;&nbsp;<span><img alt="Redux" height="40" src="https://user-images.githubusercontent.com/92839518/172959761-f08a0abb-ba61-4692-bfac-95552d08e370.png"></span>&nbsp;&nbsp;<span><img alt="Redux-Saga" height="38" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png"></span>&nbsp;&nbsp;<span><img alt="MaterialUI" height="38" src="https://user-images.githubusercontent.com/92839518/172960552-82318c14-8713-4b88-9eca-41ebcac54fed.png"></span>&nbsp;&nbsp;<span><img alt="Node.js" height="40" src="https://catethysis.ru/wp-content/uploads/2013/09/nodejslogo.png"></span>&nbsp;<span><img alt="Express.js" height="38" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png"></span>&nbsp;&nbsp;<span><img alt="Sequilize" height="40" src="https://user-images.githubusercontent.com/92839518/172965183-8c170814-97a3-4c63-b3d9-c0a9aa4170f2.png"></span>&nbsp;&nbsp;<span><img alt="Postgres" height="43" width="40" src="https://user-images.githubusercontent.com/92839518/172965345-e305dcf4-076d-4620-a6f4-d5b01269f745.png"></span>&nbsp;&nbsp;<span><img alt="Jest" height="40" src="https://user-images.githubusercontent.com/92839518/172965614-c2c3e2ad-fed3-4df8-9f1b-3ca4d7181f8e.jpeg"></span>&nbsp;&nbsp;<span><img alt="Postman" height="40" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"></span>
+</p>
 
 <br>
 <br>
