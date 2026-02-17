@@ -12,9 +12,9 @@
 <br>
 <ul>
   <li><b>Frontend:</b></li>
-  JavaScript, React, Redux (Saga, Thunk), HTML5, CSS3, Material UI
+  JavaScript, React, Redux (Saga, Thunk), MobX, Canvas API, SCSS, Webpack, Three.js, HTML5, CSS3, Material UI
   <li><b>Backend:</b></li>
-  NodeJS, Express, Sessions
+  NodeJS, Express, Sessions, JWT
   <li><b>DataBase:</b></li>
 PostgreSQL, Sequelize ORM
   <li><b>Other:</b></li>
