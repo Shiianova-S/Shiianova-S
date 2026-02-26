@@ -12,7 +12,7 @@
 <br>
 <ul>
   <li><b>Frontend:</b></li>
-  JavaScript, React, Redux (Saga, Thunk), MobX, Canvas API, SCSS, Webpack, Three.js, HTML5, CSS3, Material UI
+  TypeScript, JavaScript, React, Redux (Saga, Thunk), MobX, Canvas API, SCSS, Webpack, Three.js, HTML5, CSS3, Material UI
   <li><b>Backend:</b></li>
   NodeJS, Express, Sessions, JWT
   <li><b>DataBase:</b></li>
