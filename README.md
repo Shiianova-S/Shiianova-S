@@ -25,8 +25,8 @@ Git, GitHub, Jest, Postman
 
 
 <h3>Connect with me:</h3>
-<a name="user-content-telegram" href="https://t.me/svetalisya" rel="nofollow"><img align="left" width="40px" src="https://user-images.githubusercontent.com/92839518/172941685-4ff96c69-86c1-4860-8ddd-452b00574791.png"></a>
-<a name="user-content-email" href="mailto:lisitsova1@gmail.com" target="_blank"><img align="left" width="40px" 
+<a name="user-content-telegram" href="https://t.me/ShiiSvetlana" rel="nofollow"><img align="left" width="40px" src="https://user-images.githubusercontent.com/92839518/172941685-4ff96c69-86c1-4860-8ddd-452b00574791.png"></a>
+<a name="user-content-email" href="mailto:lisitsova@mail.ru" target="_blank"><img align="left" width="40px" 
 src="https://user-images.githubusercontent.com/92839518/172940822-c9292eaf-cfdd-4675-81e1-229a6ede37b0.png"></a>
 <br>
 <br>
